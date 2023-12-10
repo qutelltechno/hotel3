@@ -1,0 +1,17 @@
+.onelogo {
+    width: 29%;
+}
+.seawi{
+    font-size: 20px !important;
+    font-weight: bold;
+}
+ .post_item{
+    cursor: pointer;
+}
+.bradcam_area h3 {
+    font-size: 60px;
+    color: white !important;
+    font-weight: bold !important;
+    margin-bottom: 0;
+    text-transform: capitalize;
+}
